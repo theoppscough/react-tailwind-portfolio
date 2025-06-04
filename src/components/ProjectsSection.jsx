@@ -5,18 +5,18 @@ const projects = [
     id: 1,
     title: "Fitness & Nutrition Tracker",
     description:
-      "Developed a web application using React and Firebase to help users log meals, monitor macros, and visualize weight trends over time. Focused on intuitive UX and wellness tracking.",
+      "Developed a web application using React and Firebase to help users log meals, monitor macros, and visualize weight trends over time. Focused on  UX and wellness tracking.",
     image: "/projects/fitness-tracker.png",
     tags: ["React", "Firebase", "Tailwind CSS", "HealthTech"],
-    demoUrl: "https://your-live-demo-url.com", // Replace with actual URL
+    demoUrl: "https://project-3-7e1af.web.app/", // Replace with actual URL
     githubUrl: "https://github.com/theoppscough/ist363/tree/main/project3",
   },
   {
     id: 2,
     title: "AI-Powered React-to-Swift Translator",
     description:
-      "During my internship, I created an AI tool using Claude 3 and AWS Titan that automatically translated React components into Swift UI code — reducing manual conversion time by 8+ hours per feature.",
-    image: "/projects/translator.png",
+      "During my internship, we created an AI tool using Claude 3 and AWS Titan that automatically translated React components into Swift UI code — reducing manual conversion time by 8+ hours per feature.",
+    image: "/internshipTeam.jpg",
     tags: ["AI", "Claude 3", "AWS Titan", "React", "Swift"],
     demoUrl: "#",
     githubUrl: "#",
@@ -26,10 +26,10 @@ const projects = [
     title: "Education Equity Visualization (Syracuse University)",
     description:
       "Led a data visualization project using R and ggplot2 to analyze how race, parental education, and income affect academic outcomes. Presented findings at Syracuse iSchool’s Data Showcase.",
-    image: "/projects/education-data.png",
-    tags: ["R", "ggplot2", "Data Equity", "Public Education"],
-    demoUrl: "",
-    githubUrl: "#",
+    image: "/FINALPOSTERPIC.png",
+    tags: ["R", "ggplot2", "Adobe", "Data Equity", "Public Education"],
+    demoUrl: "/FINALPOSTER.pdf",
+    githubUrl: "https://github.com/theoppscough/DataVisFInalPoster",
   },
   {
     id: 4,
