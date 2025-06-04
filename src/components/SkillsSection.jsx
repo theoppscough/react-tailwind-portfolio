@@ -10,7 +10,7 @@ const skills = [
 { name: "Tailwind CSS", level: 73, category: "frontend" },
 
 // Skills
-{ name: "Python", level: 80, category: "backend" },
+{ name: "Python", level: 95, category: "backend" },
 { name: "Java", level: 60, category: "backend" },
 { name: "SQL", level: 70, category: "backend" },
 { name: "RStudio", level: 80, category: "backend" },
@@ -20,9 +20,9 @@ const skills = [
 { name: "AWS", level: 70, category: "tools" },
 { name: "Git/GitHub", level: 90, category: "tools" },
 { name: "Microsoft Suite", level: 80, category: "tools" },
-{ name: "Power BI", level: 65, category: "tools" },
-{ name: "Adobe", level: 60, category: "tools" },
-{ name: "Tableau", level: 70, category: "tools" }
+{ name: "Power BI", level: 70, category: "tools" },
+{ name: "Adobe", level: 70, category: "tools" },
+{ name: "Tableau", level: 85, category: "tools" }
 
 ];
 
