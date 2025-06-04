@@ -38,7 +38,7 @@ const projects = [
       "Designed an interactive Tableau dashboard highlighting student demographic inclusivity metrics. Presented as part of a research poster at Arizona State University's symposium.",
     image: "/REUPosterPIC.png",
     tags: ["Tableau", "Data Visualization", "Inclusion", "Education"],
-    demoUrl: "/REUPoster.pdf",
+    demoUrl: "/REUPoster-REUPaper.pdf",
     githubUrl: "https://labs.engineering.asu.edu/steer/",
   },
 ];
