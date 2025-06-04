@@ -9,7 +9,7 @@ const projects = [
     image: "/projects/fitness-tracker.png",
     tags: ["React", "Firebase", "Tailwind CSS", "HealthTech"],
     demoUrl: "https://your-live-demo-url.com", // Replace with actual URL
-    githubUrl: "https://github.com/yourusername/fitness-tracker",
+    githubUrl: "https://github.com/theoppscough/ist363/tree/main/project3",
   },
   {
     id: 2,
@@ -28,7 +28,7 @@ const projects = [
       "Led a data visualization project using R and ggplot2 to analyze how race, parental education, and income affect academic outcomes. Presented findings at Syracuse iSchool’s Data Showcase.",
     image: "/projects/education-data.png",
     tags: ["R", "ggplot2", "Data Equity", "Public Education"],
-    demoUrl: "#",
+    demoUrl: "",
     githubUrl: "#",
   },
   {
@@ -36,10 +36,10 @@ const projects = [
     title: "Inclusive Demographics Dashboard (ASU STEER Lab)",
     description:
       "Designed an interactive Tableau dashboard highlighting student demographic inclusivity metrics. Presented as part of a research poster at Arizona State University's symposium.",
-    image: "/projects/asu-dashboard.png",
+    image: "/REUPosterPIC.png",
     tags: ["Tableau", "Data Visualization", "Inclusion", "Education"],
-    demoUrl: "#",
-    githubUrl: "#",
+    demoUrl: "/REUPoster.pdf",
+    githubUrl: "https://labs.engineering.asu.edu/steer/",
   },
 ];
 
